@@ -15,7 +15,7 @@ function NavBar() {
               {/* LOGO */}
               <Link href="/">
                 <Image
-                  src="/favicon.ico"
+                  src="/logo-mascamarena.png"
                   width={50}
                   height={50}
                   alt="logo"
