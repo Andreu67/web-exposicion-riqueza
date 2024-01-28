@@ -1,10 +1,10 @@
-import NavBar from '../components/NavBar';
+import NavBar from '../../components/NavBar';
 
 export default function PEP() {
   return (
     <div>
       <NavBar /> 
-      <h1>Inicio</h1>
+      <h1>PEP</h1>
     </div>
   );
 }
