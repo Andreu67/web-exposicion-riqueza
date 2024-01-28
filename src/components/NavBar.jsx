@@ -57,7 +57,7 @@ function NavBar() {
                 </li>
                 <li className="pb-6 text-xl text-black py-2 md:px-6 text-center border-b-2 md:border-b-0 border-black hover:bg-cyan-600  md:hover:text-cyan-600 md:hover:bg-transparent">
                   <Link href="/PEP" onClick={() => setNavbar(!navbar)}>
-                    ¿Que es el PEP?
+                    ¿Qué es el PEP?
                   </Link>
                 </li>
                 <li className="pb-6 text-xl text-black py-2 px-6 text-center  border-b-2 md:border-b-0 border-black hover:bg-cyan-600  md:hover:text-cyan-600 md:hover:bg-transparent">
